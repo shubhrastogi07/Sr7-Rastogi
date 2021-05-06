@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sr7-Rastogi
+- 👋 Hola, I’m Shubh Rastogi
 - 👀 I’m interested in Software development & Web Development
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on projects in software development & Web Development
